@@ -1,0 +1,14 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#
+/.idea
+
+#
+dir1/dir2/*
+.ipynb_checkpoints/
+
+# misc
+.DS_Store
+
+pip-log.txt
+error.log*
